@@ -50,7 +50,7 @@ export default function Home() {
           <motion.button className="icon-btn glass" whileTap={{ scale: 0.85 }} onClick={() => nav('/notifications')} aria-label="Notifications">
             <Bell size={18} /><span className="dot" />
           </motion.button>
-          <motion.button className="avatar" whileTap={{ scale: 0.9 }} onClick={() => nav('/profile')}>{initials}</motion.button>
+          <motion.button className="avatar" whileTap={{ scale: 0.9 }} onClick={() => nav('/profile')}><img src="/avatar.webp" alt={user?.name} /></motion.button>
         </div>
         <motion.button className="icon-btn glass locate" whileTap={{ scale: 0.85, rotate: 90 }} onClick={() => notify('Location updated')} aria-label="Locate me">
           <LocateFixed size={18} />

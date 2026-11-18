@@ -14,7 +14,7 @@ From a Dribbble-style concept to a live, fully clickable React app:
 
 Built with React, Vite and Framer Motion, deployed on Vercel.
 
-👉 Live demo: <YOUR-VERCEL-LINK>
+👉 Live demo: https://rider-brown.vercel.app
 
 I'm open to freelance and contract work — **mobile app UI/UX design, React / Next.js front-end development, landing pages and MVPs** for startups, car rental, ride-hailing, booking and marketplace businesses. DM me or comment "RIDER" and I'll send you the case study.
 
@@ -27,7 +27,7 @@ Need an app or website that looks this good? Link in bio / DM "RIDER".
 #uidesign #uxdesign #appdesign #mobileui #reactjs #webdeveloper #frontenddev #carrental #luxurycars #supercars #motiondesign #uiinspiration #dribbble #behance #freelancedeveloper #codinglife #techstartup
 
 ## X / Twitter
-Built Rider 🚗 — a luxury car rental app in React + Framer Motion. Animated splash, map pickup, 360° car view, full booking flow. Live 👉 <YOUR-VERCEL-LINK>
+Built Rider 🚗 — a luxury car rental app in React + Framer Motion. Animated splash, map pickup, 360° car view, full booking flow. Live 👉 https://rider-brown.vercel.app
 Taking freelance UI/UX + React projects. DMs open.
 #ReactJS #UIUX #buildinpublic #webdev #Freelance
 

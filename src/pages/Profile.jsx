@@ -20,7 +20,7 @@ export default function Profile() {
     <Page className="profile has-nav">
       <motion.div className="pad" variants={stagger} initial="initial" animate="animate">
         <motion.div variants={rise} className="profile-card">
-          <motion.div className="avatar lg" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.15 }}>{initials}</motion.div>
+          <motion.div className="avatar lg" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.15 }}><img src="/avatar.webp" alt={user?.name} /></motion.div>
           <div>
             <h1>{user?.name}</h1>
             <p>{user?.email}</p>
